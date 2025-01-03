@@ -1,0 +1,15 @@
+.card {
+    background-color: burlywood;
+    margin: 10px;
+}
+.lightcardbg {
+    background: #dadada;
+    }
+    
+    .darkcardbg {
+        background: #bbb;
+    }
+
+    .darkcardbodybg, .lightcardbodybg {
+        background: #ffffff;
+    }

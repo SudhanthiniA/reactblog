@@ -1,0 +1,26 @@
+.lightheader {
+    background: #efcdad;
+}
+.darkheader {
+    background: #ff8800;
+}
+header .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 10px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header a {
+    text-decoration: none;
+    color: #333;
+}
+nav {
+    display: flex;
+    align-items: center;
+
+}
+nav a {
+    margin-left: 20px;
+}
